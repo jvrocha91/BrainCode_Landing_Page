@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(212, 206, 246);
+    font-family: 'Comfortaa', cursive;
+
+}
+
+header{
+    background-color: rgb(33, 32, 37);
+    width: auto;
+    height: 1000px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: -10px;
+    margin-left: -20px;
+    margin-right: -20px;
+   
+
+}
+
+header img {
+    
+    width: 500px;
+    height: 500px;
+    
+    
+    
+    
+}
+
+header h1{
+    color: rgb(150, 85, 168);
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    font-size: 60px;
+    padding-top: 10px;
+    
+   
+   
+}
+
+.subtitulo{
+    color:rgb(150, 85, 168);
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    font-size: 50px;
+    margin-bottom: 40px;
+   
+
+}
+
+
+.header_button{
+    margin-top:20px;
+    background-color: rgb(212, 206, 246);
+    border: none;
+    width: 200px;
+    height: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    
+    
+}
+
+button:hover{
+    background-color: rgb(206, 148, 222); /* Green */
+    color: white;
+
+}
+
+.landing_texto{
+    text-align: center;
+
+}
+
+.Aba_final{
+    background-color: rgb(85, 96, 214);
+    text-align: center;
+    height: 50px;
+    margin-top: 50px;
+    
+}
